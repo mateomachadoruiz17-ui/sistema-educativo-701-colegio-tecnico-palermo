@@ -43,7 +43,7 @@ carlos:{pass:"6802",role:"student"},
 andres:{pass:"7913",role:"student"},
 
 representante:{pass:"9999",role:"admin"},
-natalia:{pass:"8888",role:"admin"},
+natalia:{pass:"1910",role:"admin"},
 napoleon:{pass:"7777",role:"viewer"}
 };
 
